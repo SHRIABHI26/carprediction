@@ -1,5 +1,7 @@
 pandas
-numpy 
+numpy
 matplotlib
-sklearn
-seaborn
+scikit-learn
+streamlit
+streamlit-lottie
+requests
